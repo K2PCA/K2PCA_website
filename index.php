@@ -142,33 +142,23 @@
                             <td class="auto-style11">
                                 <span class="auto-style10">
                                     <strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
-                                <br />
-                                Welcome to the internet home of the Patriots Coalition Amateur Radio
-                                Association (PCARA).<br />
-                                <br />
-                                &nbsp;PCARA is a local, state, regional and national effort to unify and
-                                collaborate our common goals to form a standardized comm plan for us all.
-                                As a coalition, we have all joined forces in effort to foster a national
-                                amateur radio communications network of dedicated Ham Radio
-                                operators.&nbsp;The coalition is representative of Ham operators from all
-                                walks of Patriotic America, and we welcome all who share our vision and
-                                goal. We also encourage and promote new Hams to get 
-                                            and continue licensing, and always follow proper radio 
-                                            etiquette.<br />
-                                <br />
-                                We are a coalition of several different groups and clubs, Civilian to
-                                Active and Veteran Service members,&nbsp; Law enforcement and 
-                                            Public
-                                service. We range from Rural to Urban and all places in between. We
-                                endeavor to create a national weekly net on several platforms, and to
-                                eventually include a vast network of repeaters and relay stations
-                                providing interoperability on all Ham major bands, as well as CB, MURS,
-                                and FRS/GRMS and covering all major modes CW (Morse), Phone (Voice),
-                                and digital modes as applicable according to FCC Regulations and
-                                Voluntary Band Plans.&nbsp; The intent is to create a national ECOMMS Co-op
-                                that will suffer minimal to no impact from even the worst conditions and
-                                remain operational, during a natural disaster or even in a grid down 
-                                            scenario.
+
+<pre style="	font-family: 
+		Arial, Helvetica, sans-serif; 
+		ont-size: medium; 
+		font-style: normal; 
+		font-variant-ligatures: normal; 
+		font-variant-caps: normal; 
+		letter-spacing: normal; 
+		orphans: 2;">
+The Patriots Coalition Amateur Radio Association (PCARA) is a cross section of Patriot ham
+radio operators from different clubs and affiliations. We stand United in our support of the
+Second Amendment, and the fight to maintain our God given Constitutional Rights. We hold a
+weekly directed net where all Patriots are welcomed. We discuss our Constitution and current
+events, concerns or legislation which threaten our common Rights. We strive to enable these
+weekly nets and to increase participation, working towards creating a larger footprint for all to
+communicate freely, and to exercise our First Amendment Rights.
+</pre>
                             </strong>
 
                             <strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
@@ -202,7 +192,7 @@
 <hr>
 
 <?php
-    echo "<br><br><big><big><b>Join us for the weekly PCARA Echolink net on K2RMF-R every Sunday at 6 PM Eastern Time!!!</b> <br>" ;
+    echo "<br><br><big><big><b>Join us for the weekly PCARA Echolink net on K2PCA-R every Sunday at 6 PM Eastern Time!!!</b> <br>" ;
 ?>
 
 
