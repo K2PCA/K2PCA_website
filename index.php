@@ -192,7 +192,7 @@ communicate freely, and to exercise our First Amendment Rights.
 <hr>
 
 <?php
-    echo "<br><br><big><big><b>Join us for the weekly PCARA Echolink net on K2PCA-R every Sunday at 6 PM Eastern Time!!!</b> <br>" ;
+    echo "<br><br><big><big><b>Join us for the weekly PCARA Echolink net on K2PCA-L every Sunday at 6 PM Eastern Time!!!</b> <br>" ;
 ?>
 
 
